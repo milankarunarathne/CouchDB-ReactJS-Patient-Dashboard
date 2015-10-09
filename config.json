@@ -1,0 +1,7 @@
+{
+  "hostAddress": "localhost",
+  "hostPort": "8000",
+  "couchDBHostAddress": "localhost",
+  "couchDBHostPort": "5984",
+  "databaseName": "test"
+}
