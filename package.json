@@ -4,6 +4,7 @@
   "description": "CouchDB application with ReactJS framework",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm test",
     "webpack": "webpack --progress --colors",
     "watch": "webpack --progress --colors --watch"
